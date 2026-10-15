@@ -1,0 +1,7 @@
+{
+  "protected": [
+    "*config*", "*settings*", "*.env", "*.env.*", "*.pem", "*.key",
+    "package.json", "package-lock.json", "yarn.lock", "pnpm-lock.yaml", "uv.lock", "poetry.lock", "requirements*.txt", "pyproject.toml",
+    "uploads/*", "outputs/*", "personal/*", "custom/*"
+  ]
+}

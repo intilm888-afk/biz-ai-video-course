@@ -1,0 +1,39 @@
+name: Safe upstream sync
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Asia/Taipei (GitHub may delay scheduled jobs).
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: safe-upstream-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.repository == 'intilm888-afk/biz-ai-video-course' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Check out trusted main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Install pinned YAML parser
+        run: python3 -m pip install --disable-pip-version-check -r scripts/safe_sync/requirements.txt
+      - name: Preserve trusted automation outside the sync branch
+        run: |
+          mkdir -p "$RUNNER_TEMP/safe-upstream-sync"
+          cp scripts/safe_sync/*.py "$RUNNER_TEMP/safe-upstream-sync/"
+      - name: Safely prepare or update review PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 "$RUNNER_TEMP/safe-upstream-sync/run.py"
