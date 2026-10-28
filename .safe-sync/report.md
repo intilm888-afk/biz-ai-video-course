@@ -1,6 +1,6 @@
 # Upstream synchronization review
 
-Upstream: `Kouzui-HUANG/biz-ai-video-course@58a82a940ff3bb0e56bcd217a01c82b01f7356b0`
+Upstream: `Kouzui-HUANG/biz-ai-video-course@e5ccbf8f3681a7eeb4316a40fb81861d1cc490ed`
 
 All deletions are retained. Conflicts require manual resolution; no force overwrite.
 Validated skills: 83; validation errors: 9.
@@ -11,7 +11,20 @@ Validated skills: 83; validation errors: 9.
 
 ## raw_modified
 
-- None
+- `".claude/skills/costume-design-director/SKILL.md"`
+- `".claude/skills/costume-design-director/docs/SKILL_zh-TW.md"`
+- `".claude/skills/costume-design-director/references/fashion-dictionary-female.md"`
+- `".claude/skills/costume-design-director/references/fashion-dictionary-male.md"`
+- `".claude/skills/prompt-master-general/SKILL.md"`
+- `".claude/skills/prompt-master-general/docs/SKILL_zh-TW.md"`
+- `".claude/skills/prompt-master-image-editor/SKILL.md"`
+- `".claude/skills/prompt-master-image-editor/docs/SKILL_zh-TW.md"`
+- `".claude/skills/prompt-master-otaku-anima/generation-log.md"`
+- `".claude/skills/shot-script-director/SKILL.md"`
+- `".claude/skills/shot-script-director/docs/SKILL_zh-TW.md"`
+- `".claude/skills/shot-script-director/references/screen-translation-craft.md"`
+- `".claude/skills/shot-script-director/references/shot-script-format.md"`
+- `"README.md"`
 
 ## raw_deleted
 
@@ -23,56 +36,15 @@ Validated skills: 83; validation errors: 9.
 
 ## skills_added
 
-- `"ai-music-prompt-generator"`
-- `"ai-short-drama-director"`
-- `"blocking-plan-director"`
-- `"character-architect"`
-- `"costume-design-director"`
-- `"cultural-naming-director"`
-- `"fb-post-architect"`
-- `"gemini-3-pro-image"`
-- `"git-github-pusher"`
-- `"gpt-image-2"`
-- `"lightnovel-title-architect"`
-- `"movie-poster-art-director"`
-- `"product-visual-architect"`
-- `"prompt-master-9panel-grid"`
-- `"prompt-master-anime"`
-- `"prompt-master-character-sheet"`
-- `"prompt-master-gender-swap"`
-- `"prompt-master-general"`
-- `"prompt-master-hybrid-realism"`
-- `"prompt-master-image-editor"`
-- `"prompt-master-image-to-video"`
-- `"prompt-master-lyrics"`
-- `"prompt-master-makeup"`
-- `"prompt-master-manga-screentone"`
-- `"prompt-master-otaku-anima"`
-- `"prompt-master-otaku-sd"`
-- `"prompt-master-portrait"`
-- `"prompt-master-portrait-lighting"`
-- `"prompt-master-scene-architect"`
-- `"prompt-master-short-video"`
-- `"prompt-master-text-to-video"`
-- `"prompt-master-texture-repair"`
-- `"prompt-master-video-continuity"`
-- `"prompt-reverse-engineer"`
-- `"screenwriter-architect"`
-- `"script-doctor-architect"`
-- `"seedance-2-0"`
-- `"set-design-director"`
-- `"shot-script-director"`
-- `"skill-creator"`
-- `"skill-optimizer"`
-- `"skill-translator"`
-- `"social-media-visual-designer"`
-- `"storyboard-director"`
-- `"toy-photography-architect"`
-- `"voice-design-director"`
+- None
 
 ## skills_modified
 
-- None
+- `"costume-design-director"`
+- `"prompt-master-general"`
+- `"prompt-master-image-editor"`
+- `"prompt-master-otaku-anima"`
+- `"shot-script-director"`
 
 ## skills_deleted
 

@@ -114,19 +114,19 @@
     ],
     ".claude/skills/costume-design-director/SKILL.md": [
       "100644",
-      "37483d9bd42f5cd6cbfb91c5a8ba5b3d67628d1f"
+      "f9cce6a4395dcc627c980298b64f582db8f3403c"
     ],
     ".claude/skills/costume-design-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "6b9411830c646a93ad75c17d29036e9ac6e40e53"
+      "dfa10a4d8289c8a5dd5b1b7727d7d9148b6d9bd5"
     ],
     ".claude/skills/costume-design-director/references/fashion-dictionary-female.md": [
       "100644",
-      "6c59205902004df574aeb8f5b7cf1a917fda78d2"
+      "d70710802749f3a4913729c49c1a962078e89032"
     ],
     ".claude/skills/costume-design-director/references/fashion-dictionary-male.md": [
       "100644",
-      "f6e790573c7c492230f657b00d2e3447a1f2b0d0"
+      "cdba19c5f361833bd4a6e23e6c951baa440f5b2b"
     ],
     ".claude/skills/cultural-naming-director/SKILL.md": [
       "100644",
@@ -378,11 +378,11 @@
     ],
     ".claude/skills/prompt-master-general/SKILL.md": [
       "100644",
-      "da97f19881c583b347dc9fedfbca0a176a1422d4"
+      "b9cab4473ac92ed8d002d1e6acc17e253c9573f6"
     ],
     ".claude/skills/prompt-master-general/docs/SKILL_zh-TW.md": [
       "100644",
-      "49f83389fb188ca3358076a27cefe53e607fa41f"
+      "4112a195cc8ae2387df655d3debbf14aae03c787"
     ],
     ".claude/skills/prompt-master-hybrid-realism/SKILL.md": [
       "100644",
@@ -398,11 +398,11 @@
     ],
     ".claude/skills/prompt-master-image-editor/SKILL.md": [
       "100644",
-      "968ad4fc14bffecf9d1c0ea557a405134fdb9baf"
+      "0f4d8dbc897fa6039748ec7ee4b3bd07a4af77b5"
     ],
     ".claude/skills/prompt-master-image-editor/docs/SKILL_zh-TW.md": [
       "100644",
-      "d04f50a3c85696af2a388b0b77a7238ac671bd85"
+      "a6387ddbd677a16290ba6522eb85f7f5e3f5be6b"
     ],
     ".claude/skills/prompt-master-image-to-video/SKILL.md": [
       "100644",
@@ -486,7 +486,7 @@
     ],
     ".claude/skills/prompt-master-otaku-anima/generation-log.md": [
       "100644",
-      "7c2b0edbc933eebb30c2e0d1df33fcfeb1202d8e"
+      "29cdefb6467c1873f786c30f94b4825f79bd4ffe"
     ],
     ".claude/skills/prompt-master-otaku-anima/references/anima-prompt-guide.md": [
       "100644",
@@ -742,11 +742,11 @@
     ],
     ".claude/skills/shot-script-director/SKILL.md": [
       "100644",
-      "1f4997a8e7aae82b0efb81aca17b7c2e86fedac8"
+      "e6c0b463d5cfd604863cc06396597aa17b96a9ec"
     ],
     ".claude/skills/shot-script-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "78f3d418016b7cd01e82966d4b6fcfd1e567762e"
+      "9b1b47b47e7d2ec1e2b17d84fd42842639b887bc"
     ],
     ".claude/skills/shot-script-director/references/dialogue-craft.md": [
       "100644",
@@ -754,11 +754,11 @@
     ],
     ".claude/skills/shot-script-director/references/screen-translation-craft.md": [
       "100644",
-      "24dd21f9dc5e75628877a71401cb83b9db42df52"
+      "704c93b5ac73d923b98efd871abefe2ff1d8f7ad"
     ],
     ".claude/skills/shot-script-director/references/shot-script-format.md": [
       "100644",
-      "21fdf13d8d938bb6c1aae9763ea5ec373d2c810a"
+      "976e3993c4645f0efb3e8da10d63417c69a51961"
     ],
     ".claude/skills/skill-creator/SKILL.md": [
       "100644",
@@ -858,7 +858,7 @@
     ],
     "README.md": [
       "100644",
-      "cc6a45bddf11fe15c3521f61b99980d5c73112c2"
+      "986f8148e4b16d1f950c3ca9fbdbaa243f620ed5"
     ],
     "prompts/cryosleep-bay-keel-axis.txt": [
       "100644",
@@ -1005,19 +1005,19 @@
     "costume-design-director": {
       "SKILL.md": [
         "100644",
-        "3760b1448a31b5d58cca2c4dc53bc1bba8dfeb62005e2fcce507e40aa45f7d70"
+        "d7dd46869fd86d768d90bfb1405c2e7d39baf211d099275ee7c46799c8b944b7"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "7c6dc8350fce07f18c7a2af0971b44f1a19f41e43b1fdc7965badae81a8b7577"
+        "bac0e9d27443467cbdbb96f67055aea62fbab0a13aef6d1d1544ebacdd0d497c"
       ],
       "references/fashion-dictionary-female.md": [
         "100644",
-        "d8b9dee229bcf80e7aaf94785598f19cb324ff8ca026214ae513c34e6464f6e1"
+        "7cc5da679624c58f65b9726e297c7ef04450859af9f341bd3f08b2bbaea285c4"
       ],
       "references/fashion-dictionary-male.md": [
         "100644",
-        "35cd5adb7f630b55c44f1feb27c411c02f1f34a234315158e7c0da220fb5c2c1"
+        "50152b54fb2a5d79058b2663b332ac96a138f15ffb852e4db306bab881b3d9a1"
       ]
     },
     "cultural-naming-director": {
@@ -1295,11 +1295,11 @@
     "prompt-master-general": {
       "SKILL.md": [
         "100644",
-        "86e821b3b2026b4a7a5cbdb69bb6687ca8cd2959e6b129d41c9fd5ed7e6184f6"
+        "4e613591610d6b94e8e43ad52ae166357ebb658bb3d4385c40971bfbcbd5b00d"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "c8d2f58401b72f24bc6fc2a6e3ffebaf41961fac14a23307e9e3cb8e3e16df8d"
+        "1b6b86eb2e37fea83898264e6e753412c5da4628792896ec7db5438d1f88e4c6"
       ]
     },
     "prompt-master-hybrid-realism": {
@@ -1319,11 +1319,11 @@
     "prompt-master-image-editor": {
       "SKILL.md": [
         "100644",
-        "ebe8dcde05b06540e2fb0b4f605a0241eb40c09b425fbf379ad5a691b5ee77f3"
+        "28b130513660bc07095ce26095642386596153fec7374002a928ad9e0621ccc0"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "04e27c680ec090c0a4abe953fdfa007fb1fa08f76bce89459161408ea4e9df6f"
+        "17e3c05d11a514cf1a4b46db0719889b74129c739080ac576731909f85c09e0a"
       ]
     },
     "prompt-master-image-to-video": {
@@ -1417,7 +1417,7 @@
       ],
       "generation-log.md": [
         "100644",
-        "521c61366d0285e50648aaf0f55bd9f7f9ab88fdcd7c122b88a09d55af0d0064"
+        "e943d6dc400cb187ee41b535ff1e93aaa318001a90f80b661f75c425cbb82eb2"
       ],
       "references/anima-prompt-guide.md": [
         "100644",
@@ -1701,11 +1701,11 @@
     "shot-script-director": {
       "SKILL.md": [
         "100644",
-        "c2324d2f873c44de0942dae1899fa27080214cb1346d551b1727fbb7416cf842"
+        "aaf3fef77f96e65669f4c9d82fbc41a4887fa4c5c899604987b6c55690ad6ba0"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "38d70225d6d45b8c5d988e95434374fc52c68301ddcb15f11945fcefced08420"
+        "db85579a8c72cb911f5e7ef680e8d5992d532aee54a60bdda97fc70c68ae129e"
       ],
       "references/dialogue-craft.md": [
         "100644",
@@ -1713,11 +1713,11 @@
       ],
       "references/screen-translation-craft.md": [
         "100644",
-        "9ee9b09bb0fbd41ed8248c7676669d9d0f65ae38068ffcb7eea517dd33a1e71d"
+        "31acefbde596aaedf219c167c386ec748e863554d0cf1c4151a67c5e29881899"
       ],
       "references/shot-script-format.md": [
         "100644",
-        "0764a14bc73b11e288f320fc8e03cdb10905dc42156f5013168cfaf1187b01b2"
+        "846781c97fd767aa6a86d51ba7fe03e2524817cb61a2540a14cf54e180066e6a"
       ]
     },
     "skill-creator": {
@@ -1827,6 +1827,6 @@
       ]
     }
   },
-  "upstream": "58a82a940ff3bb0e56bcd217a01c82b01f7356b0",
+  "upstream": "e5ccbf8f3681a7eeb4316a40fb81861d1cc490ed",
   "version": 1
 }
