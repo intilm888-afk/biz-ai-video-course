@@ -1,28 +1,28 @@
 # Upstream synchronization review
 
-Upstream: `Kouzui-HUANG/biz-ai-video-course@e5ccbf8f3681a7eeb4316a40fb81861d1cc490ed`
+Upstream: `Kouzui-HUANG/biz-ai-video-course@58daeea2909497da653ca98463b93708cec664bc`
 
 All deletions are retained. Conflicts require manual resolution; no force overwrite.
 Validated skills: 83; validation errors: 9.
 
 ## raw_added
 
-- None
+- `".claude/skills/screenwriter-architect/references/situation-cards.md"`
+- `".claude/skills/screenwriter-architect/references/situation-design.md"`
+- `".claude/skills/shot-script-director/references/special-techniques.md"`
 
 ## raw_modified
 
-- `".claude/skills/costume-design-director/SKILL.md"`
-- `".claude/skills/costume-design-director/docs/SKILL_zh-TW.md"`
-- `".claude/skills/costume-design-director/references/fashion-dictionary-female.md"`
-- `".claude/skills/costume-design-director/references/fashion-dictionary-male.md"`
-- `".claude/skills/prompt-master-general/SKILL.md"`
-- `".claude/skills/prompt-master-general/docs/SKILL_zh-TW.md"`
-- `".claude/skills/prompt-master-image-editor/SKILL.md"`
-- `".claude/skills/prompt-master-image-editor/docs/SKILL_zh-TW.md"`
-- `".claude/skills/prompt-master-otaku-anima/generation-log.md"`
+- `".claude/skills/cultural-naming-director/SKILL.md"`
+- `".claude/skills/cultural-naming-director/docs/SKILL_zh-TW.md"`
+- `".claude/skills/screenwriter-architect/SKILL.md"`
+- `".claude/skills/screenwriter-architect/docs/SKILL_zh-TW.md"`
+- `".claude/skills/screenwriter-architect/references/craft-structure.md"`
+- `".claude/skills/screenwriter-architect/references/format-and-output.md"`
+- `".claude/skills/screenwriter-architect/references/intake-protocol.md"`
+- `".claude/skills/screenwriter-architect/references/revision-protocol.md"`
 - `".claude/skills/shot-script-director/SKILL.md"`
 - `".claude/skills/shot-script-director/docs/SKILL_zh-TW.md"`
-- `".claude/skills/shot-script-director/references/screen-translation-craft.md"`
 - `".claude/skills/shot-script-director/references/shot-script-format.md"`
 - `"README.md"`
 
@@ -40,10 +40,8 @@ Validated skills: 83; validation errors: 9.
 
 ## skills_modified
 
-- `"costume-design-director"`
-- `"prompt-master-general"`
-- `"prompt-master-image-editor"`
-- `"prompt-master-otaku-anima"`
+- `"cultural-naming-director"`
+- `"screenwriter-architect"`
 - `"shot-script-director"`
 
 ## skills_deleted

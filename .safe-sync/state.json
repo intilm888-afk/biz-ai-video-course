@@ -130,11 +130,11 @@
     ],
     ".claude/skills/cultural-naming-director/SKILL.md": [
       "100644",
-      "db9b20254fae6eae47bfa23c9585ae0e172ea7b0"
+      "3146600c1a50f22ed9629837f7f42621dac1f29f"
     ],
     ".claude/skills/cultural-naming-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "0c1c3a41cc4f1bec47e785a6d1845ec02d5ee7bb"
+      "3428b2fc57622510b7d2be0c4c233895d6ced092"
     ],
     ".claude/skills/cultural-naming-director/references/mythology-matrix.md": [
       "100644",
@@ -654,11 +654,11 @@
     ],
     ".claude/skills/screenwriter-architect/SKILL.md": [
       "100644",
-      "b18b58d69142047e963e407447094fdd3fae063b"
+      "bb0af1fff070b60ebe0feeeda6090adb3690bfdd"
     ],
     ".claude/skills/screenwriter-architect/docs/SKILL_zh-TW.md": [
       "100644",
-      "2428ce27b08c07bfa442246272231d42b6a18388"
+      "2f31cf735f5541fb3548e2da85efe6fd8bcd7c35"
     ],
     ".claude/skills/screenwriter-architect/references/audience-pass.md": [
       "100644",
@@ -670,19 +670,27 @@
     ],
     ".claude/skills/screenwriter-architect/references/craft-structure.md": [
       "100644",
-      "80235501dcdc03ed35789a6eb550ffb9874878a0"
+      "5bd728891ddc8fbc503ad9af146181403064845f"
     ],
     ".claude/skills/screenwriter-architect/references/format-and-output.md": [
       "100644",
-      "393d67c4023533125c4031f1141c5a788eeb3881"
+      "b60c65ca021c48c475fa3c419b3b4dc0ab129df8"
     ],
     ".claude/skills/screenwriter-architect/references/intake-protocol.md": [
       "100644",
-      "9b3dc37200ff20b7e787e3f7584161e4498ea26e"
+      "960c05a68a55d1395188e4a289cb51e6a8cb7513"
     ],
     ".claude/skills/screenwriter-architect/references/revision-protocol.md": [
       "100644",
-      "9bc13d616ed9d85526992e9050bb782006ac9e45"
+      "6d55362a28a7fb9c112a15d54351a98891a9cdcb"
+    ],
+    ".claude/skills/screenwriter-architect/references/situation-cards.md": [
+      "100644",
+      "f1bb75d6f7b7119f4d6d5c153804830eb0cb22ce"
+    ],
+    ".claude/skills/screenwriter-architect/references/situation-design.md": [
+      "100644",
+      "b10508d71fccb58d8d4dd3d8daf07aff85ab8ce7"
     ],
     ".claude/skills/script-doctor-architect/SKILL.md": [
       "100644",
@@ -742,11 +750,11 @@
     ],
     ".claude/skills/shot-script-director/SKILL.md": [
       "100644",
-      "e6c0b463d5cfd604863cc06396597aa17b96a9ec"
+      "89210ef8364a0f823b8a9ca150ff07fa93a34e64"
     ],
     ".claude/skills/shot-script-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "9b1b47b47e7d2ec1e2b17d84fd42842639b887bc"
+      "dc46f4d3692a332544202002b4528a346948c01d"
     ],
     ".claude/skills/shot-script-director/references/dialogue-craft.md": [
       "100644",
@@ -758,7 +766,11 @@
     ],
     ".claude/skills/shot-script-director/references/shot-script-format.md": [
       "100644",
-      "976e3993c4645f0efb3e8da10d63417c69a51961"
+      "08a075ff26e13de288655608b1645cf6f3588fd6"
+    ],
+    ".claude/skills/shot-script-director/references/special-techniques.md": [
+      "100644",
+      "50822884569761f09cc5923f4a58fb38912a0ea4"
     ],
     ".claude/skills/skill-creator/SKILL.md": [
       "100644",
@@ -858,7 +870,7 @@
     ],
     "README.md": [
       "100644",
-      "986f8148e4b16d1f950c3ca9fbdbaa243f620ed5"
+      "5f96a16b55d024428794285def887fc70b3b8f5c"
     ],
     "prompts/cryosleep-bay-keel-axis.txt": [
       "100644",
@@ -1023,11 +1035,11 @@
     "cultural-naming-director": {
       "SKILL.md": [
         "100644",
-        "8046bc301d37b194891ed1b3d5b8809b0260385a2f6644381abf0b21532bc62e"
+        "d96b2e878220341a6721ca3b7b198a9f12fdec46589bed8cf76ec08b16daa96b"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "262cd1f9eba7b07f73a94d935dc0cd35bf95d46177003bbcd0f43fa1ef6d2420"
+        "0f510b13e11ee3a4938df8fc4a2ac2d163897fb7b03b8cdc31d5e12edbade0e0"
       ],
       "references/mythology-matrix.md": [
         "100644",
@@ -1605,11 +1617,11 @@
     "screenwriter-architect": {
       "SKILL.md": [
         "100644",
-        "347b03ab0535903eef03499322c178c76a45ecd77d88132b56941a92cbad5edd"
+        "280a2d3e5036c3914610e2c8b44a1be6b160eecbaba5ba0a37d5ed842f90638f"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "67ec4777b96c73d5ec65c0846bf73e245dc20626c767ef53918348347c959343"
+        "bb28b3f14e66cd8c3959e7eaf1664a6118b958054d21343d5cc39adcb0c752ab"
       ],
       "references/audience-pass.md": [
         "100644",
@@ -1621,19 +1633,27 @@
       ],
       "references/craft-structure.md": [
         "100644",
-        "4e973fe18d57eeb217c28ca42607877c9669f04c255a638146ecc1d322a8368c"
+        "fa46a0c27c0d56120a614d4a25688099bcc8867ee858b2485f6c237aa91152ec"
       ],
       "references/format-and-output.md": [
         "100644",
-        "c9f255c56de6f3baccffff0fc2db16558dafbb2a8a09fc55e31fcad4e0684547"
+        "3f4fec192d8678f87f73c74c63072466a21b5ad3642ee7202bdedf7a46a8a9bb"
       ],
       "references/intake-protocol.md": [
         "100644",
-        "bd6ac6f137cf13702adf6ca1369ad4b50befee168a397da29884f00f29cfd90b"
+        "c545fb51cfa71b2aac8fee536ce10a6aec956da61479a648ba5d95697b05fb97"
       ],
       "references/revision-protocol.md": [
         "100644",
-        "d1a69983e33f099cd44078fdc77e05d9bae362661752e017caacd2db58c5ef81"
+        "452616dedb66ca5f73016f94b4f50dd61e014e2ff7d68d413424b446335da348"
+      ],
+      "references/situation-cards.md": [
+        "100644",
+        "e4031f5cbc8c36913da82d23bfc93089ca2259c371654db810cccd2065ad574f"
+      ],
+      "references/situation-design.md": [
+        "100644",
+        "0a5185cf7fec99e5ae6993fa0b6f1381f4ae4b03f26feea4a621c2467866f4bc"
       ]
     },
     "script-doctor-architect": {
@@ -1701,11 +1721,11 @@
     "shot-script-director": {
       "SKILL.md": [
         "100644",
-        "aaf3fef77f96e65669f4c9d82fbc41a4887fa4c5c899604987b6c55690ad6ba0"
+        "87e6ad75356f21c49d0517572c2ecdc860453a1d54a0692c8aaac352c4c6f54d"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "db85579a8c72cb911f5e7ef680e8d5992d532aee54a60bdda97fc70c68ae129e"
+        "a68ba3a2fc729108afcf4af2d699cd9e575f7b53385945ab991a9cf98fa80259"
       ],
       "references/dialogue-craft.md": [
         "100644",
@@ -1717,7 +1737,11 @@
       ],
       "references/shot-script-format.md": [
         "100644",
-        "846781c97fd767aa6a86d51ba7fe03e2524817cb61a2540a14cf54e180066e6a"
+        "74eed9558a66c93aff4e3a5bb5c14cc196530ddb3fe56a6640b9f112da6ae28e"
+      ],
+      "references/special-techniques.md": [
+        "100644",
+        "6df8877bd997ce005ac64db8a132a0301dcc4d2a01d6d13ba68e3496c91c4c6a"
       ]
     },
     "skill-creator": {
@@ -1827,6 +1851,6 @@
       ]
     }
   },
-  "upstream": "e5ccbf8f3681a7eeb4316a40fb81861d1cc490ed",
+  "upstream": "58daeea2909497da653ca98463b93708cec664bc",
   "version": 1
 }
