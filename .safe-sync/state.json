@@ -114,27 +114,27 @@
     ],
     ".claude/skills/costume-design-director/SKILL.md": [
       "100644",
-      "37483d9bd42f5cd6cbfb91c5a8ba5b3d67628d1f"
+      "f9cce6a4395dcc627c980298b64f582db8f3403c"
     ],
     ".claude/skills/costume-design-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "6b9411830c646a93ad75c17d29036e9ac6e40e53"
+      "dfa10a4d8289c8a5dd5b1b7727d7d9148b6d9bd5"
     ],
     ".claude/skills/costume-design-director/references/fashion-dictionary-female.md": [
       "100644",
-      "6c59205902004df574aeb8f5b7cf1a917fda78d2"
+      "d70710802749f3a4913729c49c1a962078e89032"
     ],
     ".claude/skills/costume-design-director/references/fashion-dictionary-male.md": [
       "100644",
-      "f6e790573c7c492230f657b00d2e3447a1f2b0d0"
+      "cdba19c5f361833bd4a6e23e6c951baa440f5b2b"
     ],
     ".claude/skills/cultural-naming-director/SKILL.md": [
       "100644",
-      "db9b20254fae6eae47bfa23c9585ae0e172ea7b0"
+      "3146600c1a50f22ed9629837f7f42621dac1f29f"
     ],
     ".claude/skills/cultural-naming-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "0c1c3a41cc4f1bec47e785a6d1845ec02d5ee7bb"
+      "3428b2fc57622510b7d2be0c4c233895d6ced092"
     ],
     ".claude/skills/cultural-naming-director/references/mythology-matrix.md": [
       "100644",
@@ -378,11 +378,11 @@
     ],
     ".claude/skills/prompt-master-general/SKILL.md": [
       "100644",
-      "da97f19881c583b347dc9fedfbca0a176a1422d4"
+      "b9cab4473ac92ed8d002d1e6acc17e253c9573f6"
     ],
     ".claude/skills/prompt-master-general/docs/SKILL_zh-TW.md": [
       "100644",
-      "49f83389fb188ca3358076a27cefe53e607fa41f"
+      "4112a195cc8ae2387df655d3debbf14aae03c787"
     ],
     ".claude/skills/prompt-master-hybrid-realism/SKILL.md": [
       "100644",
@@ -398,11 +398,11 @@
     ],
     ".claude/skills/prompt-master-image-editor/SKILL.md": [
       "100644",
-      "968ad4fc14bffecf9d1c0ea557a405134fdb9baf"
+      "0f4d8dbc897fa6039748ec7ee4b3bd07a4af77b5"
     ],
     ".claude/skills/prompt-master-image-editor/docs/SKILL_zh-TW.md": [
       "100644",
-      "d04f50a3c85696af2a388b0b77a7238ac671bd85"
+      "a6387ddbd677a16290ba6522eb85f7f5e3f5be6b"
     ],
     ".claude/skills/prompt-master-image-to-video/SKILL.md": [
       "100644",
@@ -486,7 +486,7 @@
     ],
     ".claude/skills/prompt-master-otaku-anima/generation-log.md": [
       "100644",
-      "7c2b0edbc933eebb30c2e0d1df33fcfeb1202d8e"
+      "29cdefb6467c1873f786c30f94b4825f79bd4ffe"
     ],
     ".claude/skills/prompt-master-otaku-anima/references/anima-prompt-guide.md": [
       "100644",
@@ -654,11 +654,11 @@
     ],
     ".claude/skills/screenwriter-architect/SKILL.md": [
       "100644",
-      "b18b58d69142047e963e407447094fdd3fae063b"
+      "bb0af1fff070b60ebe0feeeda6090adb3690bfdd"
     ],
     ".claude/skills/screenwriter-architect/docs/SKILL_zh-TW.md": [
       "100644",
-      "2428ce27b08c07bfa442246272231d42b6a18388"
+      "2f31cf735f5541fb3548e2da85efe6fd8bcd7c35"
     ],
     ".claude/skills/screenwriter-architect/references/audience-pass.md": [
       "100644",
@@ -670,19 +670,27 @@
     ],
     ".claude/skills/screenwriter-architect/references/craft-structure.md": [
       "100644",
-      "80235501dcdc03ed35789a6eb550ffb9874878a0"
+      "5bd728891ddc8fbc503ad9af146181403064845f"
     ],
     ".claude/skills/screenwriter-architect/references/format-and-output.md": [
       "100644",
-      "393d67c4023533125c4031f1141c5a788eeb3881"
+      "b60c65ca021c48c475fa3c419b3b4dc0ab129df8"
     ],
     ".claude/skills/screenwriter-architect/references/intake-protocol.md": [
       "100644",
-      "9b3dc37200ff20b7e787e3f7584161e4498ea26e"
+      "960c05a68a55d1395188e4a289cb51e6a8cb7513"
     ],
     ".claude/skills/screenwriter-architect/references/revision-protocol.md": [
       "100644",
-      "9bc13d616ed9d85526992e9050bb782006ac9e45"
+      "6d55362a28a7fb9c112a15d54351a98891a9cdcb"
+    ],
+    ".claude/skills/screenwriter-architect/references/situation-cards.md": [
+      "100644",
+      "f1bb75d6f7b7119f4d6d5c153804830eb0cb22ce"
+    ],
+    ".claude/skills/screenwriter-architect/references/situation-design.md": [
+      "100644",
+      "b10508d71fccb58d8d4dd3d8daf07aff85ab8ce7"
     ],
     ".claude/skills/script-doctor-architect/SKILL.md": [
       "100644",
@@ -742,11 +750,11 @@
     ],
     ".claude/skills/shot-script-director/SKILL.md": [
       "100644",
-      "1f4997a8e7aae82b0efb81aca17b7c2e86fedac8"
+      "89210ef8364a0f823b8a9ca150ff07fa93a34e64"
     ],
     ".claude/skills/shot-script-director/docs/SKILL_zh-TW.md": [
       "100644",
-      "78f3d418016b7cd01e82966d4b6fcfd1e567762e"
+      "dc46f4d3692a332544202002b4528a346948c01d"
     ],
     ".claude/skills/shot-script-director/references/dialogue-craft.md": [
       "100644",
@@ -754,11 +762,15 @@
     ],
     ".claude/skills/shot-script-director/references/screen-translation-craft.md": [
       "100644",
-      "24dd21f9dc5e75628877a71401cb83b9db42df52"
+      "704c93b5ac73d923b98efd871abefe2ff1d8f7ad"
     ],
     ".claude/skills/shot-script-director/references/shot-script-format.md": [
       "100644",
-      "21fdf13d8d938bb6c1aae9763ea5ec373d2c810a"
+      "08a075ff26e13de288655608b1645cf6f3588fd6"
+    ],
+    ".claude/skills/shot-script-director/references/special-techniques.md": [
+      "100644",
+      "50822884569761f09cc5923f4a58fb38912a0ea4"
     ],
     ".claude/skills/skill-creator/SKILL.md": [
       "100644",
@@ -858,7 +870,7 @@
     ],
     "README.md": [
       "100644",
-      "cc6a45bddf11fe15c3521f61b99980d5c73112c2"
+      "5f96a16b55d024428794285def887fc70b3b8f5c"
     ],
     "prompts/cryosleep-bay-keel-axis.txt": [
       "100644",
@@ -1005,29 +1017,29 @@
     "costume-design-director": {
       "SKILL.md": [
         "100644",
-        "3760b1448a31b5d58cca2c4dc53bc1bba8dfeb62005e2fcce507e40aa45f7d70"
+        "d7dd46869fd86d768d90bfb1405c2e7d39baf211d099275ee7c46799c8b944b7"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "7c6dc8350fce07f18c7a2af0971b44f1a19f41e43b1fdc7965badae81a8b7577"
+        "bac0e9d27443467cbdbb96f67055aea62fbab0a13aef6d1d1544ebacdd0d497c"
       ],
       "references/fashion-dictionary-female.md": [
         "100644",
-        "d8b9dee229bcf80e7aaf94785598f19cb324ff8ca026214ae513c34e6464f6e1"
+        "7cc5da679624c58f65b9726e297c7ef04450859af9f341bd3f08b2bbaea285c4"
       ],
       "references/fashion-dictionary-male.md": [
         "100644",
-        "35cd5adb7f630b55c44f1feb27c411c02f1f34a234315158e7c0da220fb5c2c1"
+        "50152b54fb2a5d79058b2663b332ac96a138f15ffb852e4db306bab881b3d9a1"
       ]
     },
     "cultural-naming-director": {
       "SKILL.md": [
         "100644",
-        "8046bc301d37b194891ed1b3d5b8809b0260385a2f6644381abf0b21532bc62e"
+        "d96b2e878220341a6721ca3b7b198a9f12fdec46589bed8cf76ec08b16daa96b"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "262cd1f9eba7b07f73a94d935dc0cd35bf95d46177003bbcd0f43fa1ef6d2420"
+        "0f510b13e11ee3a4938df8fc4a2ac2d163897fb7b03b8cdc31d5e12edbade0e0"
       ],
       "references/mythology-matrix.md": [
         "100644",
@@ -1295,11 +1307,11 @@
     "prompt-master-general": {
       "SKILL.md": [
         "100644",
-        "86e821b3b2026b4a7a5cbdb69bb6687ca8cd2959e6b129d41c9fd5ed7e6184f6"
+        "4e613591610d6b94e8e43ad52ae166357ebb658bb3d4385c40971bfbcbd5b00d"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "c8d2f58401b72f24bc6fc2a6e3ffebaf41961fac14a23307e9e3cb8e3e16df8d"
+        "1b6b86eb2e37fea83898264e6e753412c5da4628792896ec7db5438d1f88e4c6"
       ]
     },
     "prompt-master-hybrid-realism": {
@@ -1319,11 +1331,11 @@
     "prompt-master-image-editor": {
       "SKILL.md": [
         "100644",
-        "ebe8dcde05b06540e2fb0b4f605a0241eb40c09b425fbf379ad5a691b5ee77f3"
+        "28b130513660bc07095ce26095642386596153fec7374002a928ad9e0621ccc0"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "04e27c680ec090c0a4abe953fdfa007fb1fa08f76bce89459161408ea4e9df6f"
+        "17e3c05d11a514cf1a4b46db0719889b74129c739080ac576731909f85c09e0a"
       ]
     },
     "prompt-master-image-to-video": {
@@ -1417,7 +1429,7 @@
       ],
       "generation-log.md": [
         "100644",
-        "521c61366d0285e50648aaf0f55bd9f7f9ab88fdcd7c122b88a09d55af0d0064"
+        "e943d6dc400cb187ee41b535ff1e93aaa318001a90f80b661f75c425cbb82eb2"
       ],
       "references/anima-prompt-guide.md": [
         "100644",
@@ -1605,11 +1617,11 @@
     "screenwriter-architect": {
       "SKILL.md": [
         "100644",
-        "347b03ab0535903eef03499322c178c76a45ecd77d88132b56941a92cbad5edd"
+        "280a2d3e5036c3914610e2c8b44a1be6b160eecbaba5ba0a37d5ed842f90638f"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "67ec4777b96c73d5ec65c0846bf73e245dc20626c767ef53918348347c959343"
+        "bb28b3f14e66cd8c3959e7eaf1664a6118b958054d21343d5cc39adcb0c752ab"
       ],
       "references/audience-pass.md": [
         "100644",
@@ -1621,19 +1633,27 @@
       ],
       "references/craft-structure.md": [
         "100644",
-        "4e973fe18d57eeb217c28ca42607877c9669f04c255a638146ecc1d322a8368c"
+        "fa46a0c27c0d56120a614d4a25688099bcc8867ee858b2485f6c237aa91152ec"
       ],
       "references/format-and-output.md": [
         "100644",
-        "c9f255c56de6f3baccffff0fc2db16558dafbb2a8a09fc55e31fcad4e0684547"
+        "3f4fec192d8678f87f73c74c63072466a21b5ad3642ee7202bdedf7a46a8a9bb"
       ],
       "references/intake-protocol.md": [
         "100644",
-        "bd6ac6f137cf13702adf6ca1369ad4b50befee168a397da29884f00f29cfd90b"
+        "c545fb51cfa71b2aac8fee536ce10a6aec956da61479a648ba5d95697b05fb97"
       ],
       "references/revision-protocol.md": [
         "100644",
-        "d1a69983e33f099cd44078fdc77e05d9bae362661752e017caacd2db58c5ef81"
+        "452616dedb66ca5f73016f94b4f50dd61e014e2ff7d68d413424b446335da348"
+      ],
+      "references/situation-cards.md": [
+        "100644",
+        "e4031f5cbc8c36913da82d23bfc93089ca2259c371654db810cccd2065ad574f"
+      ],
+      "references/situation-design.md": [
+        "100644",
+        "0a5185cf7fec99e5ae6993fa0b6f1381f4ae4b03f26feea4a621c2467866f4bc"
       ]
     },
     "script-doctor-architect": {
@@ -1701,11 +1721,11 @@
     "shot-script-director": {
       "SKILL.md": [
         "100644",
-        "c2324d2f873c44de0942dae1899fa27080214cb1346d551b1727fbb7416cf842"
+        "87e6ad75356f21c49d0517572c2ecdc860453a1d54a0692c8aaac352c4c6f54d"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "38d70225d6d45b8c5d988e95434374fc52c68301ddcb15f11945fcefced08420"
+        "a68ba3a2fc729108afcf4af2d699cd9e575f7b53385945ab991a9cf98fa80259"
       ],
       "references/dialogue-craft.md": [
         "100644",
@@ -1713,11 +1733,15 @@
       ],
       "references/screen-translation-craft.md": [
         "100644",
-        "9ee9b09bb0fbd41ed8248c7676669d9d0f65ae38068ffcb7eea517dd33a1e71d"
+        "31acefbde596aaedf219c167c386ec748e863554d0cf1c4151a67c5e29881899"
       ],
       "references/shot-script-format.md": [
         "100644",
-        "0764a14bc73b11e288f320fc8e03cdb10905dc42156f5013168cfaf1187b01b2"
+        "74eed9558a66c93aff4e3a5bb5c14cc196530ddb3fe56a6640b9f112da6ae28e"
+      ],
+      "references/special-techniques.md": [
+        "100644",
+        "6df8877bd997ce005ac64db8a132a0301dcc4d2a01d6d13ba68e3496c91c4c6a"
       ]
     },
     "skill-creator": {
@@ -1827,6 +1851,6 @@
       ]
     }
   },
-  "upstream": "58a82a940ff3bb0e56bcd217a01c82b01f7356b0",
+  "upstream": "58daeea2909497da653ca98463b93708cec664bc",
   "version": 1
 }

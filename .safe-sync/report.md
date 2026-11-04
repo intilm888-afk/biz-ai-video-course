@@ -1,17 +1,30 @@
 # Upstream synchronization review
 
-Upstream: `Kouzui-HUANG/biz-ai-video-course@58a82a940ff3bb0e56bcd217a01c82b01f7356b0`
+Upstream: `Kouzui-HUANG/biz-ai-video-course@58daeea2909497da653ca98463b93708cec664bc`
 
 All deletions are retained. Conflicts require manual resolution; no force overwrite.
 Validated skills: 83; validation errors: 9.
 
 ## raw_added
 
-- None
+- `".claude/skills/screenwriter-architect/references/situation-cards.md"`
+- `".claude/skills/screenwriter-architect/references/situation-design.md"`
+- `".claude/skills/shot-script-director/references/special-techniques.md"`
 
 ## raw_modified
 
-- None
+- `".claude/skills/cultural-naming-director/SKILL.md"`
+- `".claude/skills/cultural-naming-director/docs/SKILL_zh-TW.md"`
+- `".claude/skills/screenwriter-architect/SKILL.md"`
+- `".claude/skills/screenwriter-architect/docs/SKILL_zh-TW.md"`
+- `".claude/skills/screenwriter-architect/references/craft-structure.md"`
+- `".claude/skills/screenwriter-architect/references/format-and-output.md"`
+- `".claude/skills/screenwriter-architect/references/intake-protocol.md"`
+- `".claude/skills/screenwriter-architect/references/revision-protocol.md"`
+- `".claude/skills/shot-script-director/SKILL.md"`
+- `".claude/skills/shot-script-director/docs/SKILL_zh-TW.md"`
+- `".claude/skills/shot-script-director/references/shot-script-format.md"`
+- `"README.md"`
 
 ## raw_deleted
 
@@ -23,56 +36,13 @@ Validated skills: 83; validation errors: 9.
 
 ## skills_added
 
-- `"ai-music-prompt-generator"`
-- `"ai-short-drama-director"`
-- `"blocking-plan-director"`
-- `"character-architect"`
-- `"costume-design-director"`
-- `"cultural-naming-director"`
-- `"fb-post-architect"`
-- `"gemini-3-pro-image"`
-- `"git-github-pusher"`
-- `"gpt-image-2"`
-- `"lightnovel-title-architect"`
-- `"movie-poster-art-director"`
-- `"product-visual-architect"`
-- `"prompt-master-9panel-grid"`
-- `"prompt-master-anime"`
-- `"prompt-master-character-sheet"`
-- `"prompt-master-gender-swap"`
-- `"prompt-master-general"`
-- `"prompt-master-hybrid-realism"`
-- `"prompt-master-image-editor"`
-- `"prompt-master-image-to-video"`
-- `"prompt-master-lyrics"`
-- `"prompt-master-makeup"`
-- `"prompt-master-manga-screentone"`
-- `"prompt-master-otaku-anima"`
-- `"prompt-master-otaku-sd"`
-- `"prompt-master-portrait"`
-- `"prompt-master-portrait-lighting"`
-- `"prompt-master-scene-architect"`
-- `"prompt-master-short-video"`
-- `"prompt-master-text-to-video"`
-- `"prompt-master-texture-repair"`
-- `"prompt-master-video-continuity"`
-- `"prompt-reverse-engineer"`
-- `"screenwriter-architect"`
-- `"script-doctor-architect"`
-- `"seedance-2-0"`
-- `"set-design-director"`
-- `"shot-script-director"`
-- `"skill-creator"`
-- `"skill-optimizer"`
-- `"skill-translator"`
-- `"social-media-visual-designer"`
-- `"storyboard-director"`
-- `"toy-photography-architect"`
-- `"voice-design-director"`
+- None
 
 ## skills_modified
 
-- None
+- `"cultural-naming-director"`
+- `"screenwriter-architect"`
+- `"shot-script-director"`
 
 ## skills_deleted
 
