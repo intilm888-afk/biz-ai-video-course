@@ -1,30 +1,17 @@
 # Upstream synchronization review
 
-Upstream: `Kouzui-HUANG/biz-ai-video-course@58daeea2909497da653ca98463b93708cec664bc`
+Upstream: `Kouzui-HUANG/biz-ai-video-course@c2f105bc0c0ed9906be02587f50ea327e97533fa`
 
 All deletions are retained. Conflicts require manual resolution; no force overwrite.
 Validated skills: 83; validation errors: 9.
 
 ## raw_added
 
-- `".claude/skills/screenwriter-architect/references/situation-cards.md"`
-- `".claude/skills/screenwriter-architect/references/situation-design.md"`
-- `".claude/skills/shot-script-director/references/special-techniques.md"`
+- None
 
 ## raw_modified
 
-- `".claude/skills/cultural-naming-director/SKILL.md"`
-- `".claude/skills/cultural-naming-director/docs/SKILL_zh-TW.md"`
-- `".claude/skills/screenwriter-architect/SKILL.md"`
-- `".claude/skills/screenwriter-architect/docs/SKILL_zh-TW.md"`
-- `".claude/skills/screenwriter-architect/references/craft-structure.md"`
-- `".claude/skills/screenwriter-architect/references/format-and-output.md"`
-- `".claude/skills/screenwriter-architect/references/intake-protocol.md"`
-- `".claude/skills/screenwriter-architect/references/revision-protocol.md"`
-- `".claude/skills/shot-script-director/SKILL.md"`
-- `".claude/skills/shot-script-director/docs/SKILL_zh-TW.md"`
-- `".claude/skills/shot-script-director/references/shot-script-format.md"`
-- `"README.md"`
+- `".claude/skills/shot-script-director/references/special-techniques.md"`
 
 ## raw_deleted
 
@@ -40,8 +27,6 @@ Validated skills: 83; validation errors: 9.
 
 ## skills_modified
 
-- `"cultural-naming-director"`
-- `"screenwriter-architect"`
 - `"shot-script-director"`
 
 ## skills_deleted

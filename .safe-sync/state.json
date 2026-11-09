@@ -770,7 +770,7 @@
     ],
     ".claude/skills/shot-script-director/references/special-techniques.md": [
       "100644",
-      "50822884569761f09cc5923f4a58fb38912a0ea4"
+      "855b8d66bcd64c3f3edeee94e21d80b123dde51e"
     ],
     ".claude/skills/skill-creator/SKILL.md": [
       "100644",
@@ -1741,7 +1741,7 @@
       ],
       "references/special-techniques.md": [
         "100644",
-        "6df8877bd997ce005ac64db8a132a0301dcc4d2a01d6d13ba68e3496c91c4c6a"
+        "548b469bff1e73ec91a05fbd6b5bf3de826cb9723e945c6842e6531ed8d8afc4"
       ]
     },
     "skill-creator": {
@@ -1851,6 +1851,6 @@
       ]
     }
   },
-  "upstream": "58daeea2909497da653ca98463b93708cec664bc",
+  "upstream": "c2f105bc0c0ed9906be02587f50ea327e97533fa",
   "version": 1
 }
