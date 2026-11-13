@@ -616,6 +616,18 @@
       "100644",
       "64d50e88e8c248c373a501ceada513ea3c996fc1"
     ],
+    ".claude/skills/prompt-master-toon-render/SKILL.md": [
+      "100644",
+      "3c3cfb099fdcc884446f25c07be0daeacbca1b22"
+    ],
+    ".claude/skills/prompt-master-toon-render/docs/SKILL_zh-TW.md": [
+      "100644",
+      "2f1d6973ef5220e4e7c7792ab0ace08f47dcddab"
+    ],
+    ".claude/skills/prompt-master-toon-render/references/worked-example.md": [
+      "100644",
+      "fe0a6827ec5b6d9f4ae322ddab11cf127cc7783a"
+    ],
     ".claude/skills/prompt-master-video-continuity/SKILL.md": [
       "100644",
       "387af5c773fcb314221bcda9490e705b9782c116"
@@ -994,7 +1006,7 @@
     ],
     "README.md": [
       "100644",
-      "f578000400d83f4cd2ffa752c5ee881075ccb191"
+      "de5ac5198227ffe1863039863f53e0b1532ab937"
     ],
     "prompts/cryosleep-bay-keel-axis.txt": [
       "100644",
@@ -1698,6 +1710,20 @@
         "2a244d4034a9978b6e275d2fa10cd717e4cafee4c317e24053adf393c6e9d924"
       ]
     },
+    "prompt-master-toon-render": {
+      "SKILL.md": [
+        "100644",
+        "100bfc97d420ff0e106022b5b111f2d2ade015d604c184d74e5a507b43c859f6"
+      ],
+      "docs/SKILL_zh-TW.md": [
+        "100644",
+        "1a85a053f6749ac9badcd7ef2fac9308de05e503d4f6ae80f11b65de2424b5a3"
+      ],
+      "references/worked-example.md": [
+        "100644",
+        "d489f01f808d74a0c1d91a76501adcef26a1e38a3a0e87e0855e1ee81494f4f2"
+      ]
+    },
     "prompt-master-video-continuity": {
       "SKILL.md": [
         "100644",
@@ -2099,6 +2125,6 @@
       ]
     }
   },
-  "upstream": "d07c976534e7902b60701a29ba698b88b33c18d7",
+  "upstream": "4c39181ef070bf38a0b3c2d2290a8afd8cac3be3",
   "version": 1
 }
