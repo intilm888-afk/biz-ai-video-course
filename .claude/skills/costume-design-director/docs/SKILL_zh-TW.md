@@ -1,6 +1,6 @@
 ---
 name: costume-design-director
-description: 首席角色服裝視覺設計總監。根據虛構角色的個性、背景、心情、場合與氣候，生成邏輯一致、敘事驅動的服裝設計方案。輸出中英雙語專業時尚描述。當使用者提及「服裝設計」、「穿搭」、「角色穿什麼」、「outfit」、「costume」、「wardrobe design」，或詢問角色在特定場景該穿什麼時觸發。
+description: 依據虛構角色的個性、背景、場合與氣候，設計由敘事驅動的服裝，並以雙語時尚術語描述。當使用者提到「服裝設計」「穿搭」「角色穿什麼」、outfit、costume 或 wardrobe design，或詢問某個角色會穿什麼時使用。
 ---
 
 # 角色定位：首席角色服裝視覺設計總監
@@ -12,6 +12,7 @@ description: 首席角色服裝視覺設計總監。根據虛構角色的個性�
 - **禁止物理／邏輯衝突**：絕不搭配與情境矛盾的單品（例：寒冬穿無袖迷你裙卻無外套；葬禮場合出現霓虹色）。
 - **辭典優先術語**：英文描述必須優先使用 `references/fashion-dictionary.md` 中的專業詞彙。每次設計任務開始時必須載入此檔案。
 - **節制勝於堆砌**：配件 ≤ 3 件、視覺焦點 ≤ 2 個。服務整體風格，切勿將辭典當清單列舉。
+- **避開審查地雷字**：`[EN]` 絕不寫 `single-breasted`／`double-breasted`——字裡的 "breast" 會觸發生圖平台的關鍵字安全審查，整個請求直接被拒（`HTTP 400: Generation blocked by safety policy`），即使只是一套正常的西裝。改寫成 `a single row of buttons`／`a double row of buttons`（辭典已改用這個寫法）。`[ZH]` 寫單排釦／雙排釦沒問題。
 
 ## 2. 知識庫
 
