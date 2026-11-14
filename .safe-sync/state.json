@@ -654,11 +654,11 @@
     ],
     ".claude/skills/prompt-reverse-engineer/SKILL.md": [
       "100644",
-      "dc6ccf054ab0d430c424acd03beab00262f6f2ee"
+      "7fec07218b35a629a9d8a65721326af964c563f1"
     ],
     ".claude/skills/prompt-reverse-engineer/docs/SKILL_zh-TW.md": [
       "100644",
-      "eecf8384dbcc0252b787e76945eb7cfaa2112f63"
+      "6211985b4da7704d2635af66270e37ac6a97e322"
     ],
     ".claude/skills/prompt-reverse-engineer/references/analysis-framework.md": [
       "100644",
@@ -1753,11 +1753,11 @@
     "prompt-reverse-engineer": {
       "SKILL.md": [
         "100644",
-        "e3976c87b9fca09cc370a795058a29927ded2a03a7ba7729f36ca8dad869c77d"
+        "dbe72302dfef5d18c922ec29ca76c7d26644c755366c2856c306a36ecc9c36e6"
       ],
       "docs/SKILL_zh-TW.md": [
         "100644",
-        "63dc3e43938ea207f40ba6e83441b81d063814749d031f0f7a2579144cba23d4"
+        "a00ce4b46165b91a7311c19ab6ab7e2a4d7a9237f77baac29dfefbd0b28dd1f8"
       ],
       "references/analysis-framework.md": [
         "100644",
@@ -2125,6 +2125,6 @@
       ]
     }
   },
-  "upstream": "4c39181ef070bf38a0b3c2d2290a8afd8cac3be3",
+  "upstream": "968596fab08f8add16b4caf2187efd84c4cf4ebf",
   "version": 1
 }

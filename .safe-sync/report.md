@@ -1,19 +1,18 @@
 # Upstream synchronization review
 
-Upstream: `Kouzui-HUANG/biz-ai-video-course@4c39181ef070bf38a0b3c2d2290a8afd8cac3be3`
+Upstream: `Kouzui-HUANG/biz-ai-video-course@968596fab08f8add16b4caf2187efd84c4cf4ebf`
 
 All deletions are retained. Conflicts require manual resolution; no force overwrite.
 Validated skills: 94; validation errors: 0.
 
 ## raw_added
 
-- `".claude/skills/prompt-master-toon-render/SKILL.md"`
-- `".claude/skills/prompt-master-toon-render/docs/SKILL_zh-TW.md"`
-- `".claude/skills/prompt-master-toon-render/references/worked-example.md"`
+- None
 
 ## raw_modified
 
-- `"README.md"`
+- `".claude/skills/prompt-reverse-engineer/SKILL.md"`
+- `".claude/skills/prompt-reverse-engineer/docs/SKILL_zh-TW.md"`
 
 ## raw_deleted
 
@@ -26,11 +25,11 @@ Validated skills: 94; validation errors: 0.
 
 ## skills_added
 
-- `"prompt-master-toon-render"`
+- None
 
 ## skills_modified
 
-- None
+- `"prompt-reverse-engineer"`
 
 ## skills_deleted
 
